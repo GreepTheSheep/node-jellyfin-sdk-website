@@ -1,5 +1,6 @@
-<template>
-	<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="2800" height="520" viewBox="0 0 2800 520" xml:space="preserve">
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="2800" height="520" viewBox="0 0 2800 520" xml:space="preserve">
 <desc>Created with Fabric.js 3.6.6</desc>
 <defs>
 </defs>
@@ -46,4 +47,3 @@
 		<text xml:space="preserve" font-family="'Open Sans', sans-serif" font-size="48" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 3; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-134.49" y="15.08" style="fill: rgb(255,255,255); ">for Node.js</tspan></text>
 </g>
 </svg>
-</template>
