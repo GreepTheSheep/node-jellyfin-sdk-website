@@ -20,7 +20,7 @@
 						"
 						active-class="bg-discord-blurple-600"
 					>
-						Jellyfin SDK for Node.js
+						Jellyfin for Node.js
 					</router-link>
 
 					<router-link

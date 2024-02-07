@@ -29,12 +29,11 @@
 				<a href="https://jellyfin.org" target="_blank" rel="noopener"
 					>Jellyfin API <heroicons-outline-external-link class="h-5 w-5 inline-block mb-1" aria-hidden="true"
 				/></a>
-				very easily. It takes a much more object-oriented approach than most other JS libraries, making your
-				code significantly tidier and easier to comprehend.
+				very easily.
 			</p>
 			<p>
-				Usability, consistency, and performance are key focuses of this project, and it also has nearly 100% coverage of
-				the API. It receives new features shortly after they arrive in the API.
+				Usability and consistency are key focuses of this project, and it also has nearly 100% coverage of the API. It
+				receives new features shortly after they arrive in the API.
 			</p>
 		</div>
 		<div>
