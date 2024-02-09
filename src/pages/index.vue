@@ -31,10 +31,7 @@
 				/></a>
 				very easily.
 			</p>
-			<p>
-				Usability and consistency are key focuses of this project, and it also has nearly 100% coverage of the API. It
-				receives new features shortly after they arrive in the API.
-			</p>
+			<p>This project is still in Work in Progress, usability and consistency are key focuses of this project.</p>
 		</div>
 		<div>
 			<h2>Why?</h2>
