@@ -31,13 +31,13 @@ export default defineConfig({
 			manifest: {
 				theme_color: '#090a16',
 				background_color: '#090a16',
-				name: 'Node.js Jellyfin SDK Docs',
+				name: 'Jellyfin for Node.js Docs',
 				short_name: 'node-jellyfin-sdk Docs',
 				start_url: '.',
 				display: 'standalone',
 				description:
 					// eslint-disable-next-line prettier/prettier
-					"Node-Jellyfin-SDK is a powerful Node.js module that allows you to interact with the Jellyfin API very easily.",
+					"Jellyfin for Node.js is a powerful Node.js module that allows you to interact with the Jellyfin API very easily.",
 				icons: [
 					{
 						src: '/android-chrome-192x192.png',

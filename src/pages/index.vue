@@ -21,7 +21,7 @@
 		<div class="col-span-full">
 			<h2>About</h2>
 			<p>
-				node-jellyfin-sdk is a powerful
+				Jellyfin for Node.js is a powerful
 				<a href="https://nodejs.org" target="_blank" rel="noopener"
 					>Node.js <heroicons-outline-external-link class="h-5 w-5 inline-block mb-1" aria-hidden="true"
 				/></a>

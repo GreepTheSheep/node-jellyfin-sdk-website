@@ -1,7 +1,7 @@
 <template>
 	<footer class="bg-discord-blurple-560">
 		<div class="max-w-3xl mx-auto text-center px-16 pt-10 pb-4 text-gray-200">
-			<strong><router-link to="/">node-jellyfin-sdk</router-link></strong>
+			<strong><router-link to="/">Jellyfin for Node.js (node-jellyfin-sdk)</router-link></strong>
 			<p class="mb-4">A powerful library for interacting with the Jellyfin API</p>
 			<b>Website originally created by <a href="https://discord.js.org">Discord.js</a></b>
 			<!-- <Stats class="mb-4" /> -->
